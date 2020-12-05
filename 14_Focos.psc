@@ -1,7 +1,7 @@
 Algoritmo Focos
 	definir N,R, V, B Como Entero
 	definir x Como caracter
-	Escribir "Ingrese el número de focos"
+	Escribir "Ingrese el nï¿½mero de focos"
 	leer N
 	R<-0
 	V<-0
@@ -18,7 +18,7 @@ Algoritmo Focos
 				Si foco='rojo' Entonces
 					R=R + 1
 				SiNo
-					Escribir "Error de color"
+					Escribir "Color Desconocido"
 				FinSi
 			FinSi
 		FinSi
